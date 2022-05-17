@@ -19,7 +19,7 @@ pip install pillow
 pip install psutil
 pip install psycopg2-binary
 pip install pybase64
-pip install pyrogram==1.4.16
+pip install pyrogram
 pip install python-dotenv
 pip install python-magic
 pip install python-telegram-bot
